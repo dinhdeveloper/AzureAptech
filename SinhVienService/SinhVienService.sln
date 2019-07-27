@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinhVienService", "SinhVienService\SinhVienService.csproj", "{304D8B78-134C-4207-A258-966CBD45AD8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinhVienClient", "SinhVienClient\SinhVienClient.csproj", "{2E3B49A5-20B9-46F9-841F-70536C0F0A17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{304D8B78-134C-4207-A258-966CBD45AD8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{304D8B78-134C-4207-A258-966CBD45AD8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{304D8B78-134C-4207-A258-966CBD45AD8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{304D8B78-134C-4207-A258-966CBD45AD8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E3B49A5-20B9-46F9-841F-70536C0F0A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E3B49A5-20B9-46F9-841F-70536C0F0A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E3B49A5-20B9-46F9-841F-70536C0F0A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E3B49A5-20B9-46F9-841F-70536C0F0A17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B071FB83-2682-46C5-947D-5BCC8867913C}
+	EndGlobalSection
+EndGlobal
